@@ -5,6 +5,8 @@ Paolo Franchini (Imperial College London) - p.franchini@imperial.ac.uk
 
 Official SuperNEMO repository for this code: https://github.com/SuperNEMO-DBD/SuperNEMOSensitivityTool
 
+Analysis talk: http://nile.hep.utexas.edu/cgi-bin/DocDB/ut-nemo/private/ShowDocument?docid=5170
+
 ## Requirements:
 
 * ROOT installed and sourced (${ROOTSYS})
